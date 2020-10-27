@@ -1,5 +1,5 @@
 
-
+// 대상 노드에 존재하는 지갑 목록 
 
 var obj_config = require('./web3_000_config.js');
 
